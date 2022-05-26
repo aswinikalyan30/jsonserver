@@ -3,32 +3,32 @@
     {
       "id": 1,
       "question": "Product used to automate tasks and optimize efficiencies across the institution with a cloud-based business process solution is:",
-      "answers": {"1":"Workflow","2":"Banner","3":"Ethos","4":"CRM Advance","5":"repeat"},
-      "correct_answer": "1"
+      "answers": {"a":"Workflow","b":"Banner","c":"Ethos","d":"CRM Advance","e":"repeat"},
+      "correct_answer": "a"
     },
     {
       "id": 2,
       "question": "Which Ed-Tech provider was acquired by Ellucian recently?",
-      "answers": {"1":"Submittable","2":"WizeHive Zengine","3":"AwardSpring","4":"CampusLogic","5":"repeat"},
-      "correct_answer": "4"
+      "answers": {"a":"Submittable","b":"WizeHive Zengine","c":"AwardSpring","d":"CampusLogic","e":"repeat"},
+      "correct_answer": "d"
     },
     {
       "id": 3,
       "question": "Which scholarship as announced by Ellucian Foundation supports students facing economic hardships and educational disruptions globally:",
-      "answers": {"1":"FullBright Scholarships","2":"PATH Scholarship","3":"Chevening Scholarships","4":"Eiffel Excellence Scholarship","5":"repeat"},
-      "correct_answer": "2"
+      "answers": {"a":"FullBright Scholarships","b":"PATH Scholarship","c":"Chevening Scholarships","d":"Eiffel Excellence Scholarship","e":"repeat"},
+      "correct_answer": "b"
     },
     {
       "id": 4,
       "question": "Which of the following is NOT an Ellucian Value point",
-      "answers": {"1":"Enable Customer Greatness","2":"Build Mindful Momentum","3":"Create memorable experiences","4":"Grow Together","5":"repeat"},
-      "correct_answer": "3"
+      "answers": {"a":"Enable Customer Greatness","b":"Build Mindful Momentum","c":"Create memorable experiences","d":"Grow Together","e":"repeat"},
+      "correct_answer": "c"
     },
     {
       "id": 5,
       "question": "Which of these is NOT a CRM product available at Ellucian?",
-      "answers": {"1":"Advance","2":"Advice","3":"Recruit","4":"Connect","5":"repeat"},
-      "correct_answer": "4"
+      "answers": {"a":"Advance","b":"Advice","c":"Recruit","d":"Connect","e":"repeat"},
+      "correct_answer": "d"
     }
   ]
 }
